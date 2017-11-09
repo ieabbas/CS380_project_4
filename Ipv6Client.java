@@ -1,6 +1,6 @@
 
 /* CS 380 - Computer Networks
- * Exercise 2 : CRC Client Checking
+ * Project 4 : IPv6 Client
  * Ismail Abbas & Oscar Alcaraz
  */
 
